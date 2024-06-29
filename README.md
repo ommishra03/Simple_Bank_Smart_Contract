@@ -75,6 +75,9 @@ To demonstrate the revert function, call the `Refund` function. This will revert
 4. Push to the branch (`git push origin feature-branch`)
 5. Create a new Pull Request
 
+## Author
+Name - [Om Mishra](ommishra03)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
